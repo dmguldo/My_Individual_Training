@@ -1,4 +1,4 @@
-package act.seatone;
+package act.M2_Activity1;;
 
 public class Tree {
 	int height;
