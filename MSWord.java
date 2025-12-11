@@ -1,4 +1,4 @@
-package act.seatfive;
+package act.M2_Activity5;
 
 
 public class MSWord extends Program {
