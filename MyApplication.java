@@ -1,4 +1,4 @@
-package act.seatthree;
+package act.M2_Activity4;
 
 public class MyApplication {     
 	public static void main(String[] args) {

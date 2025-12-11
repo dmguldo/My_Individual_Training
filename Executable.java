@@ -1,4 +1,4 @@
-package act.seatthree;
+package act.M2_Activity4;
 
 public interface Executable {	
 	public void run();
