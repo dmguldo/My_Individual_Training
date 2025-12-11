@@ -1,4 +1,4 @@
-package act.exerone;
+package act.M2_Activity3;
 
 public class Car {
 	private String type;
