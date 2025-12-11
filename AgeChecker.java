@@ -1,7 +1,7 @@
 /**
  * 
  */
-package act.age;
+package act.M1_Activity4;
 
 import java.util.Scanner;
 
