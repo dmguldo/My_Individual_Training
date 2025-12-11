@@ -1,7 +1,7 @@
 /**
  * 
  */
-package act.operator;
+package act.M1_Activity3;
 
 import java.util.Scanner;
 
