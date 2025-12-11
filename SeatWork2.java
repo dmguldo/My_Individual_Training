@@ -1,4 +1,4 @@
-package act.seattwo;
+package act.M2_Activity2;;
 
 public class SeatWork2 {
 
