@@ -1,4 +1,4 @@
-package act.m2activity6;
+package act.M2_Activity6;
 
 public class Truck extends Vehicle{
 
